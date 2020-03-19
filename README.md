@@ -1,4 +1,4 @@
-# Maoist-Insurgency
+# Creating a village-specific dataset on Maoist insurgency
 Project goal: Analyze news sources on maoist insurgencies in India on a village-based level to contribute to the SHRUG data platform. 
 
 All info is gathered from this website: https://www.satp.org/terrorist-activity/
