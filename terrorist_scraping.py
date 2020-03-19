@@ -130,7 +130,7 @@ summary_list = []
 date = ""
 year_index = 1
 month_index = 1
-year_range = range(2018, 2019)  # Used in loop below and also in html loop
+year_range = range(2001, 2020)  # Used in loop below and also in html loop
 year_total = 0
 for year in year_range:
     year_total += 1
@@ -756,4 +756,4 @@ new_row = {'Date': date_na, 'Event': event_na,
 df = df.append(new_row, ignore_index=True)
 
 # Putting all this into a csv
-df.to_csv('indian_maoist_insurgency/Violence_info_one_year.csv')
+df.to_csv('Violence_info_full.csv')
